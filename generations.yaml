@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Buick_LeSabre"
+
+generations:
+  - name: "Seventh Generation"
+    start_year: 1992
+    end_year: 1999
+    description: "On the H platform with the 3.8 L 3800 V6."
+  - name: "Eighth Generation"
+    start_year: 2000
+    end_year: 2005
+    description: "On the G platform with the 3.8 L 3800 Series II V6."
